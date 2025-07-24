@@ -1,4 +1,5 @@
 # 2030 Community Cooperative Platform
+<img width="1178" height="1170" alt="Screenshot 2025-07-23 at 5 21 31 PM" src="https://github.com/user-attachments/assets/70980302-4b83-4c71-8eee-34f4b7ab6d73" />
 
 A comprehensive community cooperative platform with AI orchestration for energy-autonomous, financially inclusive communities.
 
